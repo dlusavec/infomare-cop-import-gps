@@ -1,0 +1,1 @@
+Java aplikacija za import obračuna iz COP-a.
